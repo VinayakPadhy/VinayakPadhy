@@ -28,15 +28,8 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Shell Scripting](https://img.shields.io/badge/-Shell%20Scripting-000?&logo=GNU%20Bash)
-![JSON](https://img.shields.io/badge/-JSON-000?&logo=JSON)
-![YAML](https://img.shields.io/badge/-YAML-000?&logo=YAML)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
-![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
-![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
 
