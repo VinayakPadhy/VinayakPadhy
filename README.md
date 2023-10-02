@@ -42,6 +42,7 @@
 
 ### My Works 
 
+[![](https://img.shields.io/badge/-🛰%20Stock%20Market%20Prediction%20Model-000)](https://github.com/VinayakPadhy/SMPM.git)
 [![](https://img.shields.io/badge/-📝%20Sorting%20Algorithm%20Visualizer-000)](https://github.com/VinayakPadhy/Sorting-Algorithm-Visualiser.git)
 [![](https://img.shields.io/badge/-🧬%20Python%20Learning-000)](https://github.com/VinayakPadhy/Basics-of-Python)
 
