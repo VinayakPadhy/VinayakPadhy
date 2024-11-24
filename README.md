@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakpadhy&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakpadhy" /> </p>
 
-- 🔭 I’m currently working on **Cloud and Devops Technologies**
+- 🔭 I’m currently working as a **Software Engineer** at **LTIMindtree**
 
 - Past Work Experiences [ Neural Network Developer - Intern ]
 
